@@ -1,0 +1,26 @@
+@media (max-width:1500px){
+
+    .testo{
+
+        font-size: 2rem;
+    }
+
+    
+
+
+}
+}
+
+.testo{
+
+    font-size: 25rem;
+    position: absolute;
+    top:50%;
+    left: 50%;
+transform: translate(-50%,-50%);
+color: #ffe200;
+font-family: Roboto;
+
+
+
+}
